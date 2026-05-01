@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> بعدت ونسيت كل السنين
+> ونار الهوى في قلبي تبين
+> نورك في روحي دايم حزين
+> يا ريتك تعود وتطفي الحنين
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
